@@ -1,0 +1,15 @@
+*.ipynb
+*.txt
+*.pem
+*.js
+*.log
+
+testTkinter.py
+TASKS
+new.jpg
+
+/folder
+/old
+/repos
+/user_data
+/.hypothesis
